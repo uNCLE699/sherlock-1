@@ -44,7 +44,7 @@ usage: sherlock [-h] [--version] [--verbose] [--folderoutput FOLDEROUTPUT]
                 [--site SITE_NAME] [--proxy PROXY_URL] [--json JSON_FILE]
                 [--timeout TIMEOUT] [--print-all] [--print-found] [--no-color]
                 [--browse] [--local] [--nsfw]
-                USERNAMES [USERNAMES ...]
+                USERNAMES [sistanals@hotmail.com]
 
 Sherlock: Find Usernames Across Social Networks (Version 0.14.2)
 
